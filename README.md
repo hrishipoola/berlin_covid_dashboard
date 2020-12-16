@@ -20,102 +20,10 @@ If you want to learn more, give us a shout at info@crawstat.com!
 
 ## Covid Scrape
 
-### Requirements
-appdirs==1.4.4
-attrs==20.3.0
-beautifulsoup4==4.9.3
-Brotli==1.0.9
-bs4==0.0.1
-certifi==2020.12.5
-chardet==3.0.4
-click==7.1.2
-cycler==0.10.0
-Cython==0.29.21
-dash==1.17.0
-dash-core-components==1.13.0
-dash-html-components==1.1.1
-dash-renderer==1.8.3
-dash-table==4.11.0
-DateTime==4.3
-decorator==4.4.2
-distlib==0.3.1
-filelock==3.0.12
-Flask==1.1.2
-Flask-Compress==1.8.0
-future==0.18.2
-geojson-rewind==0.2.0
-idna==2.10
-ipython-genutils==0.2.0
-itsdangerous==1.1.0
-Jinja2==2.11.2
-jsonschema==3.2.0
-jupyter-core==4.7.0
-kiwisolver==1.3.1
-lxml==4.6.2
-MarkupSafe==1.1.1
-matplotlib==3.3.3
-nbformat==5.0.8
-numpy==1.19.4
-pandas==1.1.4
-pandas-datareader==0.9.0
-Pillow==8.0.1
-plotly==4.13.0
-pyparsing==2.4.7
-pyrsistent==0.17.3
-python-dateutil==2.8.1
-pytz==2020.4
-requests==2.25.0
-retrying==1.3.3
-scipy==1.5.4
-seaborn==0.11.0
-six==1.15.0
-soupsieve==2.0.1
-traitlets==5.0.5
-urllib3==1.26.2
-urlopen==1.0.0
-virtualenv==20.2.1
-Werkzeug==1.0.1
-zope.interface==5.2.0
-
+[Requirements](https://github.com/hrishipoola/berlin_covid_dashboard/blob/main/covid%20dashboard/requirements.txt)
 
 
 ## Covid Dashboard
 
-### Requirements
-Brotli==1.0.9
-certifi==2020.12.5
-chardet==3.0.4
-click==7.1.2
-dash==1.18.1
-dash-core-components==1.14.1
-dash-html-components==1.1.1
-dash-renderer==1.8.3
-dash-table==4.11.1
-DateTime==4.3
-Flask==1.1.2
-Flask-Compress==1.8.0
-future==0.18.2
-geojson==2.5.0
-geojson-rewind==0.2.0
-gunicorn==20.0.4
-idna==2.10
-itsdangerous==1.1.0
-Jinja2==2.11.2
-MarkupSafe==1.1.1
-numpy==1.19.4
-pandas==1.1.5
-patsy==0.5.1
-plotly==4.14.1
-plotly-express==0.4.1
-python-dateutil==2.8.1
-pytz==2020.4
-requests==2.25.0
-retrying==1.3.3
-scipy==1.5.4
-six==1.15.0
-statsmodels==0.12.1
-urllib3==1.26.2
-urlopen==1.0.0
-Werkzeug==1.0.1
-zope.interface==5.2.0
+[Requirements](https://github.com/hrishipoola/berlin_covid_dashboard/blob/main/covid%20dashboard/requirements.txt)
 
