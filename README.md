@@ -2,7 +2,7 @@
 
 https://covidberlin.herokuapp.com/
 
-This dashboard explores Berlin's covid profile and evolution by district. It was borne out of the fact that I, along with other Berliners, have friends and colleagues scattered across districts and needed a way to understand, visualize, and explore covid epidemiology on a district level. The purpose of this dashboard is to help fellow Berliners make more informed personal decisions and policymakers and health agencies allocate resources. It includes rolling 7-day average number of cases, statistical spread of daily incidence, average daily incidence, and an average daily incidence map. Users can dig deeper by selecting start and end dates and using hover, box & lasso select, zoom, and download tooltips.
+This dashboard explores Berlin's covid profile and evolution by district. It was borne out of the fact that I and fellow Berliners have friends and colleagues scattered across districts and needed a way to understand, visualize, and explore covid epidemiology on a district level. The purpose of this dashboard is to help fellow Berliners make more informed personal decisions and policymakers and health agencies allocate resources. It includes rolling 7-day average number of cases, statistical spread of daily incidence, average daily incidence, and an average daily incidence map. Users can dig deeper by selecting start and end dates and using hover, box & lasso select, zoom, and download tooltips.
 
 Daily district-level confirmed case data was scraped from [Das Landesamt für Gesundheit und Soziales](https://www.berlin.de/lageso/gesundheit/infektionsepidemiologie-infektionsschutz/corona/tabelle-bezirke-gesamtuebersicht/). Demographic data by district, used to calculate incidence per 100,000, was scraped from [Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_Berlin). While population data dates from the last census in Germany in 2010 and Berlin’s population has grown dramatically since then, it’s sufficient for the purpose here of calculating an approximate incidence to make comparisons. Not factored in are exogenous variables like increased testing and the fact that the true positivity rate in the population may be much higher than that indicated by confirmed positive tests.
 
@@ -26,4 +26,9 @@ If you want to learn more, give us a shout at info@crawstat.com!
 ## Covid Dashboard
 
 [Requirements](https://github.com/hrishipoola/berlin_covid_dashboard/blob/main/covid%20dashboard/requirements.txt)
+
+## Deploying to Heroku
+
+[Google Doc](https://docs.google.com/document/d/1Vg0CQb6WLZDcSGNEnK2Zo1iPw6Z58rlRf45lzrAk2Ts/edit?usp=sharing)
+
 
