@@ -30,7 +30,7 @@ server = app.server
 markdown_text = '''
 ## Berlin Covid Dashboard
 
-This diashboard explores Berin's covid profile and evolution by district. It was borne
+This dashboard explores Berlin's covid profile and evolution by district. It was borne
 out of the fact that I, along with other Berliners, have friends and colleagues scattered across districts and
 needed a way to understand, visualize, and explore covid epidemiology on a district level. The purpose
 of this dashboard is to help fellow Berliners make more informed personal decisions and policymakers and
